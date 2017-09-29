@@ -2,8 +2,8 @@
 A simple Token with Smart Contract.
 
 ##### Modules Used : 
-truffle
-ethereumjs-testrpc
+truffle,
+ethereumjs-testrpc,
 zeppelin-solidity
 
 ##### Run : 
